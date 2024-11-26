@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>Bash-based Real-time Directory Logging Tool</b>
-  - [DirSentinel](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [DirSentinel](https://github.com/Aaroncycycy/DirSentinel)
 - <b>Automated Threat Feed Aggregator</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
