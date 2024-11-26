@@ -4,7 +4,7 @@
 
 - <b>Bash-based Real-time Directory Logging Tool</b>
   - [DirSentinel](https://github.com/Aaroncycycy/DirSentinel)
-- <b>Automated Malicious IP Aggregator</b>
+- <b>Automated Malicious IP Aggregator (Linux) </b>
   - [Malicious IP web scraper](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
