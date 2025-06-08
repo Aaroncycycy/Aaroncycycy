@@ -5,5 +5,5 @@
 - <b>Bash-based Real-time Directory Logging Tool</b>
   - [DirSentinel](https://github.com/Aaroncycycy/DirSentinel)
 - <b>Automated Malicious IP Aggregator (Linux) </b>
-  - [Malicious IP web scraper](https://github.com/Aaroncycycy/MalIPull) <b><i></b></i>
+  - [MalIPull: Malicious IP Aggregation tool](https://github.com/Aaroncycycy/MalIPull) <b><i></b></i>
 
